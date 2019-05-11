@@ -24,5 +24,5 @@ Build Instructions:
   ![Anotación 2019-05-11 141453](https://user-images.githubusercontent.com/27961288/57569651-549a6900-73f8-11e9-8c4b-09c8aeb85721.png)
   - You must download and install ARCore (Android), ARkit(IOS) on your mobile device
   
-####Now you can build the project and test it on your phone!!!
+#### Now you can build the project and test it on your phone!!!
   
